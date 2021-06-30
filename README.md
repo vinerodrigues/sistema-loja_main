@@ -1,2 +1,2 @@
-# sistema-loja_main
- Sistema que eu desenvolvi para uma loja de Tatuagens
+# sistema_loja-main
+ Sistema para uma loja de tatuagens
